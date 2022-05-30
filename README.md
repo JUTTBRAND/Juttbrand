@@ -5,12 +5,31 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡pip install bs4
+
+
+- ⚡pip install requests
+
+
+- ⚡pip install mechanize
+
+
+- ⚡pkg install git
+
+
+- ⚡git clone https://github.com/JUTTBRAND/Juttbrand.git
+
+
+- ⚡cd Juttbrand
+
+
+- ⚡python run.py
+
+
+🎮USAGE🎮
+
+
+-->cd Juttbrand
+
+
+-->python run.py

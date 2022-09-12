@@ -27,4 +27,4 @@
 cd Juttbrand
 
 
-python run.py
+python pro.py

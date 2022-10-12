@@ -18,7 +18,7 @@
 ⚡cd Juttbrand
 
 
-⚡python run.py
+⚡python JXB
 
 
 # 🎮USAGE🎮
@@ -27,4 +27,4 @@
 cd Juttbrand
 
 
-python pro.py
+python JXB

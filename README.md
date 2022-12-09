@@ -6,13 +6,13 @@ ____Welcome____
 
  <a href="https://github.com/JUTTBRAND/termux-style/stargazers/"> 
 
-<a href="https://github.com/JUTTBRAND/pro"> <img alt="Last Commit" src="https://img.shields.io/github/last-commit/JUTTBRAND/pro.svg"/> </a> <br> 
+<a href="https://github.com/JUTTBRAND/Juttbrand"> <img alt="Last Commit" src="https://img.shields.io/github/last-commit/JUTTBRAND/Juttbrand.svg"/> </a> <br> 
 
-<a href="https://github.com/JUTTBRAND/pro"> <img alt="Language" src="https://img.shields.io/github/languages/count/JUTTBRAND/pro.svg"/> </a>
+<a href="https://github.com/JUTTBRAND/Juttbrand"> <img alt="Language" src="https://img.shields.io/github/languages/count/JUTTBRAND/pro.svg"/> </a>
 
- <a href="https://github.com/JUTTBRAND/pro"> <img alt="Starts" src="https://img.shields.io/github/stars/JUTTBRAND/pro.svg"/> </a> <br>
+ <a href="https://github.com/JUTTBRAND/Juttbrand"> <img alt="Starts" src="https://img.shields.io/github/stars/JUTTBRAND/Juttbrand.svg"/> </a> <br>
 
- <a href="https://github.com/JUTTBRAND/pro"> <img alt="Repo Size" src="https://img.shields.io/github/repo-size/JUTTBRAND/pro.svg"/> </a> <br> 
+ <a href="https://github.com/JUTTBRAND/Juttbrand"> <img alt="Repo Size" src="https://img.shields.io/github/repo-size/JUTTBRAND/pro.svg"/> </a> <br> 
 
 <a href="https://github.com/JUTTBRAND/pro"> <img alt="Top Language" src="https://img.shields.io/github/languages/top/JUTTBRAND/pro.svg"/>
 

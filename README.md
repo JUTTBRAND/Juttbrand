@@ -20,13 +20,13 @@ ____Welcome____
 
 </a> </div> </br> <p align="center"> FACEBOOK ACCOUNT CLONER </p> #### INSTALL TOOL ON TERMUX ```python
 
- pkg update 
+pkg update 
 
 pkg upgrade 
 
 pkg install python
 
- pkg install git 
+pkg install git 
 
 pip install requests 
 
@@ -38,13 +38,13 @@ pip install mechanize
 
 rm -rf Juttbrand 
 
-it git clone https://github.com/JUTTBRAND/Juttbrand
+git clone https://github.com/JUTTBRAND/pro
 
  ``` #### RUN SCRIPT ```python 
 
-cd Juttbrand
+cd pro
 
- python JXB.py
+python JXB.py
 
 it ``` #### MY SOCIAL MEDIA
 
@@ -59,7 +59,7 @@ it ``` #### MY SOCIAL MEDIA
 
 
 
-# JUTTBRAND VPN CLICK ON LINK FOR DAWNLD 
+# JUTTBRAND VPN 
 https://www.mediafire.com/download/mm27dpkljoscrs5
 ..
 ..
